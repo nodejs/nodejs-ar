@@ -1,2 +1,2 @@
 # iojs-ar
-Arabic localization
+الترجمة العربية
