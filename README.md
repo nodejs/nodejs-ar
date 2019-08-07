@@ -9,7 +9,7 @@
 >
 > **تحديث :**
 >
-> بسبب تغيير سياسة الترجمة داخل مجتمعنا فنلعم زورنا الاعزاء ان المساهمة أصبحت داخل [المستودع الرئيسي لموقعنا](https://github.com/nodejs/nodejs.org) حيث يمكك البدء من [هنا](https://github.com/nodejs/nodejs.org/tree/master/locale/ar) .. 
+> بسبب تغيير سياسة الترجمة داخل مجتمعنا فنلعم زورنا الاعزاء ان المساهمة أصبحت داخل [المستودع الرئيسي لموقعنا](https://github.com/nodejs/nodejs.org) حيث يمكنك البدء من [هنا](https://github.com/nodejs/nodejs.org/tree/master/locale/ar) او الانتقال الى [هذه المنظمة](https://github.com/node-ar) التى تحتضن نفس فكرة هذا المستودع لكن بامكانيات اكبر للمجتمع العربي ..  
 >
 
 
